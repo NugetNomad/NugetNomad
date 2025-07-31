@@ -1,8 +1,4 @@
 <h3> Hi There :wave: </h3>
-<p>
-  <b>Specializing in C# (.NET Core), RESTful Web APIs, and React-based solutions</b>
-</p>
-
 ---
 
 ## 🛠️ Technical Expertise
