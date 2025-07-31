@@ -2,11 +2,8 @@
   <img src="https://avatars.githubusercontent.com/emr-nandan" alt="Profile Picture" width="120" style="border-radius:50%;" />
 </p>
 
-<h3 align = "center"> Hi There :wave: I'm </h3>
-<h1 align="center">
-  <b>Nandan Parmar</b>
-</h1>
-<p align="center">
+<h3> Hi There :wave: </h3>
+<p>
   <b>Specializing in C# (.NET Core), RESTful Web APIs, and React-based solutions</b>
 </p>
 
@@ -55,15 +52,6 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emr-nandan&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 </p>
-
----
-
-## 📫 Contact
-
-For Any Queries: 
-**[nandan.parmar@emerson.com](mailto:nandan.parmar@emerson.com)**  
-[LinkedIn](https://linkedin.com/in/nandan-parmar)
-
 ---
 
 <p align="center">
