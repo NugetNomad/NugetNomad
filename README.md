@@ -1,5 +1,4 @@
-<h3> Hi There :wave: </h3>
----
+<h2 align = "center"> ABOUT ME </h2>
 
 ## 🛠️ Technical Expertise
 
@@ -44,7 +43,6 @@
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emr-nandan&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 </p>
----
 
 <p align="center">
   <em>Committed to delivering professional, high-quality software solutions.</em>
