@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/emr-nandan" alt="Profile Picture" width="120" style="border-radius:50%;" />
-</p>
-
 <h3> Hi There :wave: </h3>
 <p>
   <b>Specializing in C# (.NET Core), RESTful Web APIs, and React-based solutions</b>
