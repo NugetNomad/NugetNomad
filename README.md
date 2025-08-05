@@ -39,9 +39,9 @@
 ## 📈 Contributions & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emr-nandan&show_icons=true&theme=github_dark&title_color=154360&icon_color=2471A3" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NugetNomad&show_icons=true&theme=github_dark&title_color=154360&icon_color=2471A3" height="180"/>
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emr-nandan&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NugetNomad&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 </p>
 
 <p align="center">
